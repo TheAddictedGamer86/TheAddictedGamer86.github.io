@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Big heading!
 
 You can use the [editor on GitHub](https://github.com/TheAddictedGamer86/TheAddictedGamer86.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
